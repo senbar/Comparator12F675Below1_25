@@ -38,7 +38,7 @@ int main(void) {
     
     while(1)
     { 
-           //do shit
+           
     }
     
     return (EXIT_SUCCESS);
